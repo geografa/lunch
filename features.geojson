@@ -1,0 +1,215 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Rosa Parks Elementary",
+        "address": "8960 N Woolsey Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.712722,
+          45.587584
+        ],
+        "type": "Point"
+      },
+      "id": "146e2906619e44c1457e43b835a3e1a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Markham Elementary",
+        "address": "10531 SW Capitol Hwy"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.726299,
+          45.449243
+        ],
+        "type": "Point"
+      },
+      "id": "29c3a0dc12ce207fcf6fc295992d94fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Franklin High School",
+        "address": "5405 SE Woodward St"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.606897,
+          45.503311
+        ],
+        "type": "Point"
+      },
+      "id": "392701d8d27aea9fe4a2bb19513febdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Scott Elementary",
+        "address": "6700 NE Prescott St"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.594251,
+          45.554622
+        ],
+        "type": "Point"
+      },
+      "id": "3a6da96a185c9e20a7177400783dce8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "George Middle School",
+        "address": "10000 N Burr Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.736157,
+          45.595807
+        ],
+        "type": "Point"
+      },
+      "id": "534329b9bec000f19912400d2d9b814d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Lent School",
+        "address": "5105 SE 97th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.564322,
+          45.486123
+        ],
+        "type": "Point"
+      },
+      "id": "73b7da7673793086b5df3754e48de48b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Harrison Park School",
+        "address": "2225 SE 87th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.574954,
+          45.506548
+        ],
+        "type": "Point"
+      },
+      "id": "74417668ee06d2a1810e6453f3037f27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Rigler Elementary",
+        "address": "5401 NE Prescott St"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.608317,
+          45.556449
+        ],
+        "type": "Point"
+      },
+      "id": "795114caf9dda6f8a3613d4cb4e937a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Boise-Eliot/Humboldt Elementary",
+        "address": "620 N Fremont Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.67182,
+          45.54766
+        ],
+        "type": "Point"
+      },
+      "id": "8df295c38b2a98fdf052ab63f188befa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Dr. Martin Luther King Jr. Elementary",
+        "address": "4906 NE 6th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.659541,
+          45.557569
+        ],
+        "type": "Point"
+      },
+      "id": "a35370aa1803a4fe24dbb0265d63d928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "César Chávez Elementary",
+        "address": "5103 N Willis Blvd"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.720543,
+          45.584285
+        ],
+        "type": "Point"
+      },
+      "id": "af4872f4227d32fcfbaa602085c45c78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Sitton Elementary",
+        "address": "9930 N Smith St"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.75837,
+          45.59993
+        ],
+        "type": "Point"
+      },
+      "id": "bb4d075f2fb5715628a2abfefb02235a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Madison at Marshall",
+        "address": "3905 SE 91st Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.572921,
+          45.493806
+        ],
+        "type": "Point"
+      },
+      "id": "d40e451373a65458af99a7a0af426b27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Woodmere Elementary",
+        "address": "7900 SE Duke St"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.58233,
+          45.474693
+        ],
+        "type": "Point"
+      },
+      "id": "d871bff5e24b3d6d97361e63bbbed8f3"
+    }
+  ],
+  "type": "FeatureCollection"
+}
